@@ -1,7 +1,5 @@
 #include <iostream>
 
-using namespace std;
-
 template <class T>
 void selectionSort(T A[], size_t size)
 {
